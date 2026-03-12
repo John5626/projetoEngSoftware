@@ -18,6 +18,7 @@ O foco deste projeto é organizar as entregas de engenharia de software, incluin
 .
 ├── docs/
 │   └── engSoft_I/
+│       ├── AvaliacaoE2.md
 │       ├── ESI_-_Trabalho_I.pdf
 │       ├── ESI___Trabalho_II-04-12.pdf
 │       ├── Trabalho_ESOFT_I_E1.pdf
